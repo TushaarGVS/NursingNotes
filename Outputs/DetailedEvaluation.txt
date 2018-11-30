@@ -1,0 +1,899 @@
+Dataset:  embeddingMIMIC_500
+
+Fold-1 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-2 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-3 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-4 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-5 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-6 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-7 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-8 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-9 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-10 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+---------------------------------------------------------------------------------------------------------------------
+Coverage errors
+{'knn': [20.199558985667036,
+         20.228476821192054,
+         20.321192052980134,
+         20.307947019867548,
+         20.206401766004415,
+         20.316777041942604,
+         20.397350993377483,
+         20.249448123620308,
+         20.34216335540839,
+         20.29801324503311],
+ 'multilayerPerceptron': [19.71664829106946,
+                          19.68101545253863,
+                          19.93598233995585,
+                          19.892935982339957,
+                          19.634657836644593,
+                          19.85430463576159,
+                          20.004415011037526,
+                          19.807947019867548,
+                          19.781456953642383,
+                          19.67328918322296],
+ 'randomForest': [20.4619625137817,
+                  20.380794701986755,
+                  20.596026490066226,
+                  20.63907284768212,
+                  20.55960264900662,
+                  20.467991169977925,
+                  20.635761589403973,
+                  20.766004415011036,
+                  20.61699779249448,
+                  20.469094922737305]}
+
+Label Ranking Avg. Precision
+{'knn': [0.544996523232237,
+         0.5506881619921348,
+         0.5489026023946667,
+         0.5413628706343943,
+         0.5528769265380683,
+         0.5403940983647224,
+         0.5589553187906726,
+         0.5436242756339924,
+         0.5421217869055377,
+         0.5527745422083108],
+ 'multilayerPerceptron': [0.5580877430099069,
+                          0.5644766313178091,
+                          0.5644680522913561,
+                          0.5620726793474737,
+                          0.5708035121877579,
+                          0.5579321178205143,
+                          0.5719919334717681,
+                          0.5672793841322741,
+                          0.5601232217383428,
+                          0.562382906544631],
+ 'randomForest': [0.5426599517456357,
+                  0.5508981810759649,
+                  0.5435230004946455,
+                  0.537947441915631,
+                  0.547415916307434,
+                  0.5457780368086662,
+                  0.5498958678531384,
+                  0.5377852350799578,
+                  0.542169473406367,
+                  0.5510973168999043]}
+
+Label Ranking Loss
+{'knn': [0.5336579356751471,
+         0.5274298442305685,
+         0.5316274816817479,
+         0.5452335172252906,
+         0.530104259242429,
+         0.5376758100665465,
+         0.5316123258495136,
+         0.5361251606913849,
+         0.5306977759194015,
+         0.5197103942439476],
+ 'multilayerPerceptron': [0.48620792916943745,
+                          0.4877228425593885,
+                          0.4907699123744631,
+                          0.49166670568555554,
+                          0.4808613965876705,
+                          0.4891395515325202,
+                          0.4867424577057968,
+                          0.4826266096274361,
+                          0.4896844858777288,
+                          0.4833653432660507],
+ 'randomForest': [0.564678697620875,
+                  0.5548450149938471,
+                  0.5761146638522198,
+                  0.5698008613039727,
+                  0.56545739336942,
+                  0.5548205243348951,
+                  0.5706756193801011,
+                  0.5698359869400969,
+                  0.5606707634254405,
+                  0.5547077948875624]}
+--------------------------------------------------------------------------------------------------------------------- 
+
+Dataset:  embeddingMIMIC_1000
+
+Fold-1 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-2 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-3 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-4 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-5 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-6 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-7 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-8 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-9 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-10 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+---------------------------------------------------------------------------------------------------------------------
+Coverage errors
+{'knn': [20.31422271223815,
+         20.286975717439294,
+         20.283664459161148,
+         20.426048565121413,
+         20.219646799116997,
+         20.44812362030905,
+         20.518763796909493,
+         20.428256070640177,
+         20.233995584988964,
+         20.439293598233995],
+ 'multilayerPerceptron': [19.714443219404632,
+                          19.76048565121413,
+                          19.908388520971304,
+                          19.990066225165563,
+                          19.71523178807947,
+                          19.8476821192053,
+                          19.99337748344371,
+                          19.921633554083886,
+                          19.66887417218543,
+                          19.852097130242825],
+ 'randomForest': [20.466372657111357,
+                  20.51766004415011,
+                  20.576158940397352,
+                  20.630242825607063,
+                  20.52869757174393,
+                  20.502207505518765,
+                  20.664459161147903,
+                  20.713024282560706,
+                  20.560706401766005,
+                  20.452538631346577]}
+
+Label Ranking Avg. Precision
+{'knn': [0.5260133126565839,
+         0.5302770030348088,
+         0.5359494125871721,
+         0.5282701950617893,
+         0.5370398713607347,
+         0.5199851554768844,
+         0.532682328248774,
+         0.5249649538354144,
+         0.5253991493033109,
+         0.528727859837385],
+ 'multilayerPerceptron': [0.5323229327937061,
+                          0.5406243141531386,
+                          0.5351342494178377,
+                          0.5411727546811633,
+                          0.5500949700551534,
+                          0.5357623865954069,
+                          0.5426690190528433,
+                          0.5363614346549421,
+                          0.5298413299576196,
+                          0.5408645489450336],
+ 'randomForest': [0.536799328233413,
+                  0.5447748081091275,
+                  0.5406020133550896,
+                  0.536372356502836,
+                  0.544858229176072,
+                  0.5435560979427276,
+                  0.5457185441789089,
+                  0.5333246688954683,
+                  0.5384719587457295,
+                  0.5496238060837166]}
+
+Label Ranking Loss
+{'knn': [0.5535787908237532,
+         0.5526866981862879,
+         0.5422611491933914,
+         0.5634654771885266,
+         0.5462706470173155,
+         0.560927056125219,
+         0.5600509911841964,
+         0.5556685101155451,
+         0.5457025640641149,
+         0.5483497038518332],
+ 'multilayerPerceptron': [0.5099778903417624,
+                          0.5027554144855761,
+                          0.5308078643402735,
+                          0.5170761624237237,
+                          0.490139582130406,
+                          0.5118430898173398,
+                          0.5235597159369265,
+                          0.5154342545907136,
+                          0.5152241069757213,
+                          0.507553218907514],
+ 'randomForest': [0.569103378799111,
+                  0.5639212146228861,
+                  0.5730800070170725,
+                  0.5719819450334688,
+                  0.5667509611619314,
+                  0.5590019503973774,
+                  0.5806766003368119,
+                  0.5744259020077731,
+                  0.5665973836740035,
+                  0.554610696293497]}
+--------------------------------------------------------------------------------------------------------------------- 
+
+Dataset:  bagOfWordsHDP
+
+Fold-1 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-2 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-3 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-4 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-5 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-6 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-7 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-8 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-9 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-10 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+---------------------------------------------------------------------------------------------------------------------
+Coverage errors
+{'knn': [20.274531422271224,
+         20.126931567328917,
+         20.252759381898453,
+         20.05298013245033,
+         20.15783664459161,
+         20.14459161147903,
+         20.277041942604857,
+         20.185430463576157,
+         20.29801324503311,
+         20.132450331125828],
+ 'multilayerPerceptron': [20.169790518191842,
+                          20.18653421633554,
+                          20.514348785871963,
+                          20.3476821192053,
+                          20.194260485651213,
+                          20.271523178807946,
+                          20.47682119205298,
+                          20.4878587196468,
+                          20.424944812362032,
+                          20.341059602649008],
+ 'randomForest': [20.41896361631753,
+                  20.3841059602649,
+                  20.548565121412803,
+                  20.613686534216335,
+                  20.47240618101545,
+                  20.488962472406183,
+                  20.654525386313466,
+                  20.692052980132452,
+                  20.597130242825607,
+                  20.490066225165563]}
+
+Label Ranking Avg. Precision
+{'knn': [0.5066581024674343,
+         0.5102536087401776,
+         0.5150220816602371,
+         0.5191769878444984,
+         0.5123759084535933,
+         0.5070499838384543,
+         0.517814435888937,
+         0.5076869199666619,
+         0.5039703414510286,
+         0.5084837135861573],
+ 'multilayerPerceptron': [0.5404077193988989,
+                          0.5434219534757606,
+                          0.5401784066691628,
+                          0.5355081591567179,
+                          0.5480395361521846,
+                          0.5371043849439852,
+                          0.5525771653325068,
+                          0.5390722452683384,
+                          0.5355541731407971,
+                          0.5450189000609812],
+ 'randomForest': [0.535432896710461,
+                  0.5382377352534637,
+                  0.5384969678857651,
+                  0.5268259909291932,
+                  0.5434336506535745,
+                  0.5363222098500805,
+                  0.543077454339873,
+                  0.5335494688350659,
+                  0.5354562259239413,
+                  0.5398289032119057]}
+
+Label Ranking Loss
+{'knn': [0.5483130332920554,
+         0.5374305833141494,
+         0.5395400065920714,
+         0.5358391911242434,
+         0.5477661980697178,
+         0.5448149261222922,
+         0.5505751716642878,
+         0.548714158042785,
+         0.5444427522512294,
+         0.5413285443905186],
+ 'multilayerPerceptron': [0.5249484357104971,
+                          0.5242903761702891,
+                          0.5514299376248268,
+                          0.5390617441910885,
+                          0.5253262116234092,
+                          0.5372218253899229,
+                          0.5362041864840361,
+                          0.525635033787915,
+                          0.5300811730300247,
+                          0.5372390471097565],
+ 'randomForest': [0.5601290955135225,
+                  0.5594301298411594,
+                  0.5648176178776212,
+                  0.5761741949148464,
+                  0.5535631869522938,
+                  0.5589289887603784,
+                  0.5712314177493366,
+                  0.5677290255994332,
+                  0.5615989285240691,
+                  0.5564973400054809]}
+--------------------------------------------------------------------------------------------------------------------- 
+
+Dataset:  tfIdfHDP
+
+Fold-1 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-2 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-3 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-4 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-5 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-6 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-7 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-8 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-9 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-10 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+---------------------------------------------------------------------------------------------------------------------
+Coverage errors
+{'knn': [20.17199558985667,
+         20.206401766004415,
+         20.26048565121413,
+         20.26048565121413,
+         20.286975717439294,
+         20.333333333333332,
+         20.379690949227374,
+         20.387417218543046,
+         20.288079470198674,
+         20.277041942604857],
+ 'multilayerPerceptron': [20.401323042998897,
+                          20.08719646799117,
+                          20.443708609271525,
+                          20.428256070640177,
+                          20.185430463576157,
+                          20.266004415011036,
+                          20.466887417218544,
+                          20.467991169977925,
+                          20.338852097130243,
+                          20.327814569536425],
+ 'randomForest': [20.488423373759648,
+                  20.37858719646799,
+                  20.634657836644593,
+                  20.654525386313466,
+                  20.504415011037526,
+                  20.52317880794702,
+                  20.654525386313466,
+                  20.70860927152318,
+                  20.52980132450331,
+                  20.49337748344371]}
+
+Label Ranking Avg. Precision
+{'knn': [0.49977355660762024,
+         0.5091540728052156,
+         0.5084570983679841,
+         0.5105215179159385,
+         0.5115665510881268,
+         0.4993842675752221,
+         0.5106615222341077,
+         0.5049219796573154,
+         0.5001701794404844,
+         0.5061088201517567],
+ 'multilayerPerceptron': [0.5299624561419064,
+                          0.5359481801021998,
+                          0.5365494483577636,
+                          0.5295755477314265,
+                          0.5422437248899399,
+                          0.5292821971624666,
+                          0.5404168678383245,
+                          0.5306987835002462,
+                          0.5313798271846135,
+                          0.5379869310442608],
+ 'randomForest': [0.5291219880001596,
+                  0.538539831622062,
+                  0.5323794932583574,
+                  0.5225943935877719,
+                  0.5333901456591474,
+                  0.5314516861398773,
+                  0.5371184347702019,
+                  0.5298408921836086,
+                  0.5331878491163815,
+                  0.539951291466982]}
+
+Label Ranking Loss
+{'knn': [0.5542502584865061,
+         0.5495034962035086,
+         0.5545623252074994,
+         0.5490736058126364,
+         0.545124910178815,
+         0.5519352181785132,
+         0.5602890131545903,
+         0.5561332877940464,
+         0.5536836486818144,
+         0.5473913964624453],
+ 'multilayerPerceptron': [0.5403505985342024,
+                          0.5423887982510752,
+                          0.5444632170609743,
+                          0.5462414856867889,
+                          0.5298272099418604,
+                          0.5410398269818074,
+                          0.5455452048486422,
+                          0.5388097255178464,
+                          0.5381484810888935,
+                          0.5280077815474485],
+ 'randomForest': [0.5770546230309768,
+                  0.5635115499477417,
+                  0.5778342493168916,
+                  0.5856108044866791,
+                  0.5686386754636423,
+                  0.5680751677025901,
+                  0.5833454689700351,
+                  0.5771891899332018,
+                  0.5649330271501691,
+                  0.5609227846522424]}
+--------------------------------------------------------------------------------------------------------------------- 
+
+Dataset:  bagOfWordsLDAasLSI
+
+Fold-1 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-2 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-3 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-4 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-5 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-6 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-7 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-8 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-9 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-10 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+---------------------------------------------------------------------------------------------------------------------
+Coverage errors
+{'knn': [19.7045203969129,
+         19.888520971302427,
+         20.15673289183223,
+         20.08057395143488,
+         19.807947019867548,
+         19.926048565121413,
+         20.091611479028696,
+         20.05187637969095,
+         19.903973509933774,
+         19.8841059602649],
+ 'multilayerPerceptron': [19.89525909592062,
+                          19.806843267108167,
+                          20.02759381898455,
+                          19.927152317880793,
+                          19.746136865342162,
+                          19.8598233995585,
+                          19.870860927152318,
+                          19.894039735099337,
+                          19.805739514348787,
+                          19.97682119205298],
+ 'randomForest': [20.447629547960307,
+                  20.41832229580574,
+                  20.598233995584987,
+                  20.583885209713024,
+                  20.488962472406183,
+                  20.451434878587197,
+                  20.665562913907284,
+                  20.735099337748345,
+                  20.579470198675498,
+                  20.572847682119207]}
+
+Label Ranking Avg. Precision
+{'knn': [0.5711556413592476,
+         0.5740631766499601,
+         0.5697469170471995,
+         0.5650950879104119,
+         0.5811438403175704,
+         0.5666530197877309,
+         0.574745273175573,
+         0.5706987996648681,
+         0.566771899209324,
+         0.5721202641581334],
+ 'multilayerPerceptron': [0.5908734288734981,
+                          0.6005348741473676,
+                          0.5918022436808077,
+                          0.5877642503768028,
+                          0.6088712191090598,
+                          0.5846159162769988,
+                          0.6012145868143164,
+                          0.5901710836655061,
+                          0.5885872247024061,
+                          0.5926740942712365],
+ 'randomForest': [0.5477292237595052,
+                  0.5601450454613907,
+                  0.5520440175888987,
+                  0.5448771211956799,
+                  0.558563113780121,
+                  0.5537071788127267,
+                  0.5592304979511319,
+                  0.5488610127090707,
+                  0.5530590429818798,
+                  0.5621414340387079]}
+
+Label Ranking Loss
+{'knn': [0.4729881528911458,
+         0.4713779443737251,
+         0.4855676229930672,
+         0.48964570624713505,
+         0.46922732962942443,
+         0.47838701462187283,
+         0.4854667925525704,
+         0.4803928689046931,
+         0.4794355103609687,
+         0.4788070163207338],
+ 'multilayerPerceptron': [0.45873410247067126,
+                          0.4488989964122514,
+                          0.4687226021860268,
+                          0.46981762843644365,
+                          0.44846513877918964,
+                          0.46321285507661436,
+                          0.45889433236060545,
+                          0.46369274973847247,
+                          0.4584731586241253,
+                          0.46035173329426077],
+ 'randomForest': [0.5518853534636413,
+                  0.5428853167392275,
+                  0.5601557532105196,
+                  0.557252107042682,
+                  0.5444503313392521,
+                  0.546711181232733,
+                  0.5606201915986042,
+                  0.5564753747856921,
+                  0.5490951097087226,
+                  0.543160617621757]}
+--------------------------------------------------------------------------------------------------------------------- 
+
+Dataset:  tfIdfMIMIC
+
+Fold-1 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-2 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-3 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-4 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-5 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-6 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-7 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-8 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-9 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+Fold-10 is split
+RF, MLP and KNN are built
+All model predictions are made
+All evaluation metrics are computed
+
+---------------------------------------------------------------------------------------------------------------------
+Coverage errors
+{'knn': [19.792723263506065,
+         19.924944812362032,
+         19.984547461368653,
+         19.93708609271523,
+         19.79139072847682,
+         19.858719646799116,
+         19.961368653421633,
+         20.013245033112582,
+         19.750551876379692,
+         20.016556291390728],
+ 'multilayerPerceptron': [19.59316427783903,
+                          19.683222958057396,
+                          19.856512141280355,
+                          19.79801324503311,
+                          19.474613686534216,
+                          19.68211920529801,
+                          19.76931567328918,
+                          19.67549668874172,
+                          19.649006622516556,
+                          19.573951434878587],
+ 'randomForest': [20.470782800441015,
+                  20.322295805739515,
+                  20.662251655629138,
+                  20.608167770419428,
+                  20.488962472406183,
+                  20.483443708609272,
+                  20.70309050772627,
+                  20.758278145695364,
+                  20.619205298013245,
+                  20.474613686534216]}
+
+Label Ranking Avg. Precision
+{'knn': [0.5797751575008849,
+         0.5853438032472313,
+         0.5846613632424419,
+         0.5847942792607004,
+         0.5989621490692189,
+         0.5815965863805482,
+         0.5883946882884309,
+         0.5861562310704999,
+         0.584003497765568,
+         0.5836341323269003],
+ 'multilayerPerceptron': [0.561881434030315,
+                          0.5770645150754392,
+                          0.5728256363441567,
+                          0.5786718778605094,
+                          0.5774640555028775,
+                          0.5718892081735445,
+                          0.5759496363873993,
+                          0.5706283523911316,
+                          0.5663531040365731,
+                          0.5785213921662509],
+ 'randomForest': [0.5377205041579366,
+                  0.5498624347944354,
+                  0.5431633120374858,
+                  0.5305865746856361,
+                  0.5447671476589817,
+                  0.5429458419207325,
+                  0.5460586484993234,
+                  0.536214842818045,
+                  0.5403593932332903,
+                  0.5415965065497954]}
+
+Label Ranking Loss
+{'knn': [0.4679602736014621,
+         0.4696182517990458,
+         0.47671245582212246,
+         0.47506986099688514,
+         0.45805519340493195,
+         0.4644102052477393,
+         0.4790755436176998,
+         0.46943650046357754,
+         0.4647356481471741,
+         0.4704894908942474],
+ 'multilayerPerceptron': [0.465341560568485,
+                          0.4604896282510592,
+                          0.4622242191320101,
+                          0.4554361555044932,
+                          0.45170817630035287,
+                          0.45096557284383443,
+                          0.4679255702147161,
+                          0.45654690366301387,
+                          0.4637528912951351,
+                          0.44959559802626514],
+ 'randomForest': [0.560348508316424,
+                  0.5390444057351941,
+                  0.5710844564070344,
+                  0.5566451215197765,
+                  0.5559755651158133,
+                  0.5594400037423927,
+                  0.5791693688241276,
+                  0.5708235834612718,
+                  0.5567486909160874,
+                  0.5540693487744293]}
+--------------------------------------------------------------------------------------------------------------------- 
